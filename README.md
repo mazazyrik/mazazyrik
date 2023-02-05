@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I+am+Junior+Python+Developer)](https://git.io/typing-svg)
 
+
 # My name is Nikita, I am from Russia.
 *I am a young developer. My passion is to manage IT projects.*
 
