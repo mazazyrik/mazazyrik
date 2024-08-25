@@ -4,6 +4,8 @@
 # My name is Nikita, I am from Russia.
 *I am a young developer. My passion is to manage IT projects.*
 
+## Now i am working on a project "abstraction" that will be shown in my profile soon
+
 ----
 
 ## My stack:
@@ -14,12 +16,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 ----
 
 ## I implemented several successful projects which I placed on my blog:
 
-- [YoutubeShare](https://github.com/mazazyrik/youtubeshare)
+- [Foodgram](https://github.com/mazazyrik/foodgram-project-react)
 
 
 ----
