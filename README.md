@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет+👋;Я+Middle+Fullstack+разработчик)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет+👋;Я+Backend+разработчик)](https://git.io/typing-svg)
 
 <p align="right">
 🇷🇺 Русский | <a href="#english-version">🇬🇧 English</a>
@@ -63,24 +63,18 @@
 📬 Telegram: [@mazazyrikbeats](https://t.me/mazazyrikbeats)  
 📧 Почта: [mazazyrik@yandex.ru](mailto:mazazyrik@yandex.ru)
 
-----
-
-### Мои трофеи:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mazazyrik&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## <a id="english-version"></a>🇬🇧 English Version
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I+am+Middle+Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I+am+Backend+Developer)](https://git.io/typing-svg)
 
 <p align="right">
 <a href="#русский-язык">🇷🇺 Russian</a> | 🇬🇧 English
 </p>
 
 # Hi! My name is Nikita, I’m from Russia.
-*I’m a middle-level developer at FrogProg. I specialize in fullstack development and DevOps.*
+*I’m a Backend developer in [eXpress.ms](https://express.ms/)*
 
 ## Education
 
