@@ -5,7 +5,7 @@
 </p>
 
 # Привет! Меня зовут Никита, я из России.
-*Я Middle-разработчик во FrogProg. Специализируюсь на fullstack-разработке и DevOps.*
+*Я Backend Developer в [eXpress.ms](https://express.ms/)*
 
 ## Образование
 
