@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет+👋;Я+Backend+разработчик)](https://git.io/typing-svg)
 
 # Привет! Меня зовут Никита, я из России.
-*Я Backend Developer в [eXpress.ms](https://express.ms/)*
+*Я Backend Developer в [AWG](https://www.awg.ru/)*
 
 ## Образование
 
